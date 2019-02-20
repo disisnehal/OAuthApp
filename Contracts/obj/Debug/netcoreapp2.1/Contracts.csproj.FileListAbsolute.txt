@@ -1,0 +1,9 @@
+C:\Users\nehal.gupta\source\repos\OAuthApp\Contracts\bin\Debug\netcoreapp2.1\Contracts.deps.json
+C:\Users\nehal.gupta\source\repos\OAuthApp\Contracts\bin\Debug\netcoreapp2.1\Contracts.dll
+C:\Users\nehal.gupta\source\repos\OAuthApp\Contracts\bin\Debug\netcoreapp2.1\Contracts.pdb
+C:\Users\nehal.gupta\source\repos\OAuthApp\Contracts\obj\Debug\netcoreapp2.1\Contracts.csprojAssemblyReference.cache
+C:\Users\nehal.gupta\source\repos\OAuthApp\Contracts\obj\Debug\netcoreapp2.1\Contracts.csproj.CoreCompileInputs.cache
+C:\Users\nehal.gupta\source\repos\OAuthApp\Contracts\obj\Debug\netcoreapp2.1\Contracts.AssemblyInfoInputs.cache
+C:\Users\nehal.gupta\source\repos\OAuthApp\Contracts\obj\Debug\netcoreapp2.1\Contracts.AssemblyInfo.cs
+C:\Users\nehal.gupta\source\repos\OAuthApp\Contracts\obj\Debug\netcoreapp2.1\Contracts.dll
+C:\Users\nehal.gupta\source\repos\OAuthApp\Contracts\obj\Debug\netcoreapp2.1\Contracts.pdb

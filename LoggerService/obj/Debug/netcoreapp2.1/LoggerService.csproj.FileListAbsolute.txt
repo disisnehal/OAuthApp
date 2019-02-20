@@ -1,0 +1,12 @@
+C:\Users\nehal.gupta\source\repos\OAuthApp\LoggerService\bin\Debug\netcoreapp2.1\Contracts.dll
+C:\Users\nehal.gupta\source\repos\OAuthApp\LoggerService\obj\Debug\netcoreapp2.1\LoggerService.csproj.CoreCompileInputs.cache
+C:\Users\nehal.gupta\source\repos\OAuthApp\LoggerService\obj\Debug\netcoreapp2.1\LoggerService.AssemblyInfoInputs.cache
+C:\Users\nehal.gupta\source\repos\OAuthApp\LoggerService\obj\Debug\netcoreapp2.1\LoggerService.AssemblyInfo.cs
+C:\Users\nehal.gupta\source\repos\OAuthApp\LoggerService\bin\Debug\netcoreapp2.1\LoggerService.deps.json
+C:\Users\nehal.gupta\source\repos\OAuthApp\LoggerService\bin\Debug\netcoreapp2.1\LoggerService.dll
+C:\Users\nehal.gupta\source\repos\OAuthApp\LoggerService\bin\Debug\netcoreapp2.1\LoggerService.pdb
+C:\Users\nehal.gupta\source\repos\OAuthApp\LoggerService\bin\Debug\netcoreapp2.1\Contracts.pdb
+C:\Users\nehal.gupta\source\repos\OAuthApp\LoggerService\obj\Debug\netcoreapp2.1\LoggerService.csprojAssemblyReference.cache
+C:\Users\nehal.gupta\source\repos\OAuthApp\LoggerService\obj\Debug\netcoreapp2.1\LoggerService.csproj.CopyComplete
+C:\Users\nehal.gupta\source\repos\OAuthApp\LoggerService\obj\Debug\netcoreapp2.1\LoggerService.dll
+C:\Users\nehal.gupta\source\repos\OAuthApp\LoggerService\obj\Debug\netcoreapp2.1\LoggerService.pdb
